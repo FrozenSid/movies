@@ -9,11 +9,11 @@ In order to see the website, do the following:
 5) open a web browser and type "localhost:8888/Movies"
 6) 8888 is the port number but for your machine it might be different - it could be 80 or 8080
 7) you can look up the ranking for 5 movies in the repository which are: 
---> Mortal Kombat
---> Princess Bride
---> TMNT (Teenage Mutant Ninja Turtles)
---> TMNT 2 (Teenage Mutant Ninja Turtles 2)
---> SummerSlam (WWE Pay Per View)
+- Mortal Kombat
+- Princess Bride
+- TMNT (Teenage Mutant Ninja Turtles)
+- TMNT 2 (Teenage Mutant Ninja Turtles 2)
+- SummerSlam (WWE Pay Per View)
 8) to see the ranking for a particular movie you need to type the full URL like this:
 --> localhost:8888/Movies/movie.php?film=mortalkombat  OR
 --> localhost:8888/Movies/movie.php?film=princessbride  OR
